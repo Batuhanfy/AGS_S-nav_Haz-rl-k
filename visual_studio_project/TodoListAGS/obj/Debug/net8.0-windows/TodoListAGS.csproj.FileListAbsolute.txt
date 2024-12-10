@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\bin\Debug\net8.0-windows\TodoListAGS.exe
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\bin\Debug\net8.0-windows\TodoListAGS.deps.json
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\bin\Debug\net8.0-windows\TodoListAGS.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\bin\Debug\net8.0-windows\TodoListAGS.dll
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\bin\Debug\net8.0-windows\TodoListAGS.pdb
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.dll
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\refint\TodoListAGS.dll
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.pdb
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\ref\TodoListAGS.dll
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\TodoListAGS\TodoListAGS\obj\Debug\net8.0-windows\TodoListAGS.Form1.resources
